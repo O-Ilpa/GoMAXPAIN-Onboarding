@@ -1,2 +1,2 @@
-![add-team-member](./add-team-member-flow-chart.svg)
+![add-team-member](./add-team-member-flowchart.svg)
 ![onboarding-flowchart](./onboarding-flowchart.svg)
